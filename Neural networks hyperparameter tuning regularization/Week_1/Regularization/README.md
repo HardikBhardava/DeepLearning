@@ -1,1 +1,14 @@
-
+## Table of Contents
+- [1 - Packages](#1)
+- [2 - Problem Statement](#2)
+- [3 - Loading the Dataset](#3)
+- [4 - Non-Regularized Model](#4)
+- [5 - L2 Regularization](#5)
+    - [compute_cost_with_regularization]
+    - [backward_propagation_with_regularization]
+- [6 - Dropout](#6)
+    - [6.1 - Forward Propagation with Dropout](#6-1)
+        - [forward_propagation_with_dropout]
+    - [6.2 - Backward Propagation with Dropout](#6-2)
+        - [backward_propagation_with_dropout]
+- [7 - Conclusions](#7)
